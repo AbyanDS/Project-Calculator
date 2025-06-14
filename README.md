@@ -33,12 +33,12 @@ Menyediakan halaman profil yang menampilkan deskrips dan gambar.
 
 3. Jalankan Aplikasi
     ```sh
+
+
+
     flutter run
     ```
 
 
 ## Demo
-![Screenshot_7](https://github.com/user-attachments/assets/ed528ef3-78f6-4645-ad66-e4e0e35998e7)
-![Screenshot_6](https://github.com/user-attachments/assets/59995c30-8264-4c91-a656-ba32978d33bf)
-![Screenshot_8](https://github.com/user-attachments/assets/edd8a3e6-54d8-42a1-9140-b2976e92b498)
-![Screenshot_10](https://github.com/user-attachments/assets/9ef13937-25db-4388-ae4a-2a426bd36d6e)
+https://github.com/user-attachments/assets/e4710621-68ec-449f-9900-fd90db09513c
